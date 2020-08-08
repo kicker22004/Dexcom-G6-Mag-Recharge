@@ -24,7 +24,7 @@ This will require patients, skill, and a bit of luck.
 - Magnetic Connector (8MM)
 
 ## Resources:
-I will update this as I have time to include where you can get cables and parts, But for now the parts can be sourced on ebay,digikey,mouser and i'm sure other locations.
+I will update this as I have time to include where you can get cables and parts, But for now the parts can be sourced on ebay,digikey,mouser and i'm sure other locations. I'll also attempt to build a wiki for this project but that will come with intrest and time.
 
 ## Helpful Tools:
 - Reflow station or Reflow Oven
