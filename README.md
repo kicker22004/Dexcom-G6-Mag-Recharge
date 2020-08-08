@@ -31,6 +31,7 @@ I will update this as I have time to include where you can get cables and parts,
 - My reflow station was cheap (858D+ 220V Hot Air Soldering ReWork Station)
 
 ### A Stencil for the pcb!!, not required but super useful!
+I ordered mine with the pcb from Jlcpcb.com
 
 - A Digital Microscope. Mine was also cheap (Andonstar ADSM302)
 
