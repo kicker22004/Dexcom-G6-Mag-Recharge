@@ -30,7 +30,7 @@ I will update this as I have time to include where you can get cables and parts,
 - Reflow station or Reflow Oven
 - My reflow station was cheap (858D+ 220V Hot Air Soldering ReWork Station)
 
--### A Stencil for the pcb!!, not required but super useful!
+### A Stencil for the pcb!!, not required but super useful!
 
 - A Digital Microscope. Mine was also cheap (Andonstar ADSM302)
 
