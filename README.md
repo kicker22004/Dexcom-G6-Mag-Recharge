@@ -23,9 +23,14 @@ This will require patients, skill, and a bit of luck.
 - BAT54SLT1G SOT-23
 - Magnetic Connector (8MM)
 
+## Resources:
+I will update this as I have time to include where you can get cables and parts, But for now the parts can be sourced on ebay,digikey,mouser and i'm sure other locations.
+
 ## Helpful Tools:
 - Reflow station or Reflow Oven
 - My reflow station was cheap (858D+ 220V Hot Air Soldering ReWork Station)
+
+-### A Stencil for the pcb!!, not required but super useful!
 
 - A Digital Microscope. Mine was also cheap (Andonstar ADSM302)
 
