@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name G6-Mag-Charger-rescue)(type Legacy)(uri "${KIPRJMOD}/G6 Mag Charger-rescue.lib")(options "")(descr ""))
+)
